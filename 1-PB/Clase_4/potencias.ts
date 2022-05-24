@@ -7,4 +7,4 @@ let number2 : number = readlinesync.questionInt('Ingrese el numero del exponente
 console.log("EL EXP ES "+ number2)
 
 let RESULTADO:number = number1**number2
-console.log ("EL RESULTADO ES " + RESULTADO)
+console.log ("EL RESULTADO ES " + RESULTADO) 
