@@ -10,3 +10,4 @@ console.log("La base del rectangulo es de " + distanciaDeLaBase + " CM")
 console.log("Ahora, inserte la altura de dicho rectangulo, expresado en CM")
 let alturaDeLaBase = readlinesync.question()
 console.log("Sabiendo que la base es de "+ distanciaDeLaBase + "CM" + " y la altura es de "  + alturaDeLaBase + "CM, podemos decir que la base es de " + alturaDeLaBase*distanciaDeLaBase+ "CM^2")
+ 
