@@ -1,0 +1,23 @@
+.diario {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.tsas{
+    background-image: url(tsas.jpg);
+    width: 2048px;
+    height: 1365px;
+    margin: 0 auto;
+    border: 3px solid;
+}
+
+.navbar{
+    background-color:darkblue;
+}
+.locales{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    
+}
